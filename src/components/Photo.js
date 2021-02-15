@@ -11,6 +11,8 @@ const Photo = (props) =>
                 src={props.photo.path}
                 effect="opacity"
                 className="photo"
+                threshold={100}
+                placeholder={<span className="photo-placeholder"></span>}
                 beforeLoad={() => console.log(`chargement de ${props.photo.path}`)}
                 afterLoad={() => console.log(`${props.photo.path} chargée`)}
             />

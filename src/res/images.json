@@ -1,44 +1,399 @@
 [
     {
-        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00533.jpeg",
-        "description": "La proue d'Apivia",
-        "author": "Grégoire",
-        "categories": [
-            0,
-            2
-        ]
-    },
-    {
-        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00613.jpeg",
-        "description": "La cabine de Yes We Cam",
-        "author": "Grégoire",
-        "categories": [
-            0,
-            15
-        ]
-    },
-    {
-        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00810.jpeg",
-        "description": "Yes We Cam",
-        "author": "Grégoire",
-        "categories": [
-            0,
-            15
-        ]
-    },
-    {
         "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00639.jpeg",
         "description": "Maître Coq",
-        "author": "Grégoire",
+        "author": "GT",
         "categories": [
             0,
             12
         ]
     },
     {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00579.jpeg",
+        "description": "La cabine de Maître Coq",
+        "author": "GT",
+        "categories": [
+            0,
+            12
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00532.jpeg",
+        "description": "L'accès aux pontons",
+        "author": "GT",
+        "categories": [
+            0,
+            1
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00640.jpeg",
+        "description": "L'arrière d'Apicil",
+        "author": "GT",
+        "categories": [
+            0,
+            3
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00708.jpeg",
+        "description": "L'arrivée de BestWestern",
+        "author": "GT",
+        "categories": [
+            0,
+            5
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00719.jpeg",
+        "description": "BestWestern attendant de rentrer dans le chenal",
+        "author": "GT",
+        "categories": [
+            0,
+            5
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00773.jpeg",
+        "description": "BestWestern fraîchement arrivé",
+        "author": "GT",
+        "categories": [
+            0,
+            5
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00524.jpeg",
+        "description": "Apivia, en tête du ponton",
+        "author": "GT",
+        "categories": [
+            0,
+            2
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00760.jpeg",
+        "description": "La proue d'Apivia",
+        "author": "GT",
+        "categories": [
+            0,
+            2
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00676.jpeg",
+        "description": "Le foil tribord d'Apivia",
+        "author": "GT",
+        "categories": [
+            0,
+            2
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00684.jpeg",
+        "description": "La cabine d'Apivia",
+        "author": "GT",
+        "categories": [
+            0,
+            2
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00726.jpeg",
+        "description": "Le port Olona",
+        "author": "GT",
+        "categories": [
+            0,
+            1
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00753.jpeg",
+        "description": "LinkedOut abîmé",
+        "author": "GT",
+        "categories": [
+            0,
+            10
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00770.jpeg",
+        "description": "Le poste de pilotage de Charal",
+        "author": "GT",
+        "categories": [
+            0,
+            6
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00758.jpeg",
+        "description": "Jean le photographe",
+        "author": "GT",
+        "categories": [
+            0,
+            1,
+            9
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00650.jpeg",
+        "description": "La proue d'Apicil",
+        "author": "GT",
+        "categories": [
+            0,
+            3
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00704.jpeg",
+        "description": "Le ciel des Sables",
+        "author": "GT",
+        "categories": [
+            0,
+            1
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00743.jpeg",
+        "description": "Banque Populaire",
+        "author": "GT",
+        "categories": [
+            0,
+            4
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00737.jpeg",
+        "description": "Banque Populaire",
+        "author": "GT",
+        "categories": [
+            0,
+            4
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00653.jpeg",
+        "description": "Les non-foils Banque Populaire",
+        "author": "GT",
+        "categories": [
+            0,
+            4
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00698.jpeg",
+        "description": "La file d'attente pour monter sur les pontons",
+        "author": "GT",
+        "categories": [
+            0,
+            1
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00810.jpeg",
+        "description": "Yes We Cam",
+        "author": "GT",
+        "categories": [
+            0,
+            15
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00613.jpeg",
+        "description": "La cabine de Yes We Cam",
+        "author": "GT",
+        "categories": [
+            0,
+            15
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00597.jpeg",
+        "description": "La cabine de Yes We Cam",
+        "author": "GT",
+        "categories": [
+            0,
+            15
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00604.jpeg",
+        "description": "La cabine de Yes We Cam",
+        "author": "GT",
+        "categories": [
+            0,
+            15
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00694.jpeg",
+        "description": "Le côté droit des pontons",
+        "author": "GT",
+        "categories": [
+            0,
+            1,
+            2,
+            7,
+            10
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00627.jpeg",
+        "description": "La proue de Maître Coq",
+        "author": "GT",
+        "categories": [
+            0,
+            12
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00759.jpeg",
+        "description": "La proue d'Apivia",
+        "author": "GT",
+        "categories": [
+            0,
+            2
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00656.jpeg",
+        "description": "L'arrière de LinkedOut",
+        "author": "GT",
+        "categories": [
+            0,
+            10
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00702.jpeg",
+        "description": "LinkedOut vu de la rive",
+        "author": "GT",
+        "categories": [
+            0,
+            10
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00657.jpeg",
+        "description": "LinkedOut",
+        "author": "GT",
+        "categories": [
+            0,
+            10
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00661.jpeg",
+        "description": "La cabine de LinkedOut",
+        "author": "GT",
+        "categories": [
+            0,
+            10
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00733.jpeg",
+        "description": "VB Mayenne",
+        "author": "GT",
+        "categories": [
+            0,
+            14
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00777.jpeg",
+        "description": "BestWestern amarré",
+        "author": "GT",
+        "categories": [
+            0,
+            5
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00688.jpeg",
+        "description": "Apivia en tête de ponton",
+        "author": "GT",
+        "categories": [
+            0,
+            2
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00649.jpeg",
+        "description": "La proue de SeaExplorer",
+        "author": "GT",
+        "categories": [
+            0,
+            13
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00548.jpeg",
+        "description": "Les foils de Charal",
+        "author": "GT",
+        "categories": [
+            0,
+            6
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00738.jpeg",
+        "description": "Charal",
+        "author": "GT",
+        "categories": [
+            0,
+            6
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00574.jpeg",
+        "description": "Les foils de L'Occitane",
+        "author": "GT",
+        "categories": [
+            0,
+            11
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00569.jpeg",
+        "description": "La proue de L'Occitane",
+        "author": "GT",
+        "categories": [
+            0,
+            11
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/_DSC2135.jpg",
+        "description": "L'Occitane",
+        "author": "JH",
+        "categories": [
+            0,
+            11
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00575.jpeg",
+        "description": "L'arrière de L'Occitane",
+        "author": "GT",
+        "categories": [
+            0,
+            11
+        ]
+    },
+    {
         "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00722.jpeg",
         "description": "Le ciel des Sables d'Olonne",
-        "author": "Grégoire",
+        "author": "GT",
+        "categories": [
+            0,
+            1
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00600.jpeg",
+        "description": "Les pontons des Sables",
+        "author": "GT",
         "categories": [
             0,
             1
@@ -47,10 +402,65 @@
     {
         "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00713.jpeg",
         "description": "Le ciel des Sables d'Olonne",
-        "author": "Grégoire",
+        "author": "GT",
         "categories": [
             0,
             1
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00781.jpeg",
+        "description": "Le poste de pilotage de Banque Populaire",
+        "author": "GT",
+        "categories": [
+            0,
+            4
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/_DSC2152.jpg",
+        "description": "Grégoire prenant une photo",
+        "author": "JH",
+        "categories": [
+            0,
+            1,
+            8
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00599.jpeg",
+        "description": "Les mats des IMOCA",
+        "author": "GT",
+        "categories": [
+            0,
+            1
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00669.jpeg",
+        "description": "La cabine de Bureau Vallée",
+        "author": "GT",
+        "categories": [
+            0,
+            7
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00833.jpeg",
+        "description": "Charal et son équipe",
+        "author": "GT",
+        "categories": [
+            0,
+            6
+        ]
+    },
+    {
+        "path": "http://vendee-globe.gregoirethibaud.fr/images/DSC00670.jpeg",
+        "description": "La coque de LinkedOut",
+        "author": "GT",
+        "categories": [
+            0,
+            10
         ]
     }
 ]

@@ -94,12 +94,26 @@ img, button {
     color: #73737D;
 }
 
+.photo-placeholder {
+    width: 800px;
+    height: 500px;
+    background-color: aqua;
+}
+
 p {
     line-height: 22px;
 }
 
+a {
+    color: #0079ff;
+}
+
 @media screen and (max-width: 800px) {
     .photo {
+        width: 100%;
+    }
+
+    .photo-placeholder {
         width: 100%;
     }
 
