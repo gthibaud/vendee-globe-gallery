@@ -12,8 +12,7 @@ body {
 }
 
 .app {
-    max-width: 800px;
-    min-width: 600px;
+    width: 800px;
     margin: 0 auto;
 }
 
@@ -76,8 +75,7 @@ img, button {
 }
 
 .photo {
-    max-width: 800px;
-    min-width: 600px;
+    width: 800px;
 }
 
 .photo-container {
@@ -99,3 +97,14 @@ img, button {
 p {
     line-height: 22px;
 }
+
+@media screen and (max-width: 800px) {
+    .photo {
+        width: 100%;
+    }
+
+    .app {
+        width: calc(100% - 24px);
+        margin: 12px;
+    }
+} 

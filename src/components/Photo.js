@@ -5,15 +5,14 @@ import { LazyLoadImage } from 'react-lazy-load-image-component'
 import 'react-lazy-load-image-component/src/effects/blur.css'
 
 const Photo = (props) =>
-    <div
-        className="photo-container"
-        key={props.photo.path}
-    >
+    <div className="photo-container">
         <Zoom>
             <LazyLoadImage
                 src={props.photo.path}
                 effect="opacity"
                 className="photo"
+                beforeLoad={() => console.log(`chargement de ${props.photo.path}`)}
+                afterLoad={() => console.log(`${props.photo.path} chargée`)}
             />
         </Zoom>
         <div className="photo-metadata">
